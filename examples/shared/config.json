@@ -1,0 +1,17 @@
+{
+	"fonts": {
+		"normal":     { "face": "../shared/NotoSans-Regular.ttf",       "size": 11 },
+		"symbols":    { "face": "../shared/NotoSansSymbols-Medium.ttf", "size": 11 },
+		"monospaced": { "face": "../shared/CascadiaCode.ttf",           "size": 11 },
+		"info":       { "face": "../shared/NotoSans-Regular.ttf",       "size": 9  }
+	},
+	"colors": {
+		"windowBackground": [   5,   5,   5, 255],
+		"primary":          [  60,  15,  15, 255],
+		"primaryHighlight": [  80,  15,  15, 255],
+		"text":             [ 255, 255, 255, 255],
+		"disabled":         [  24,  24,  24, 255],
+		"disabledText":     [ 128, 128, 128, 255],
+		"panelBackground":  [  15,  15,  15,  15]
+	}
+}
